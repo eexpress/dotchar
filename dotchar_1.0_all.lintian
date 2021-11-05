@@ -1,0 +1,15 @@
+E: dotchar: ]8;;https://lintian.debian.org/tags/changelog-file-missing-in-native-package.html\changelog-file-missing-in-native-package]8;;\
+E: dotchar: ]8;;https://lintian.debian.org/tags/malformed-md5sums-control-file.html\malformed-md5sums-control-file]8;;\ Odd text: usr/share/applications/dotchar.desktop
+E: dotchar: ]8;;https://lintian.debian.org/tags/md5sums-lists-nonexistent-file.html\md5sums-lists-nonexistent-file]8;;\ fdaa95407a3f1e61c118256ad1c03338
+E: dotchar: ]8;;https://lintian.debian.org/tags/no-copyright-file.html\no-copyright-file]8;;\
+W: dotchar: ]8;;https://lintian.debian.org/tags/binary-without-manpage.html\binary-without-manpage]8;;\ usr/bin/HZK12
+W: dotchar: ]8;;https://lintian.debian.org/tags/binary-without-manpage.html\binary-without-manpage]8;;\ usr/bin/HZK16
+W: dotchar: ]8;;https://lintian.debian.org/tags/binary-without-manpage.html\binary-without-manpage]8;;\ usr/bin/dotchar.pl
+W: dotchar: ]8;;https://lintian.debian.org/tags/extended-description-line-too-long.html\extended-description-line-too-long]8;;\
+W: dotchar: ]8;;https://lintian.debian.org/tags/file-missing-in-md5sums.html\file-missing-in-md5sums]8;;\ usr/share/applications/dotchar.desktop
+W: dotchar: ]8;;https://lintian.debian.org/tags/non-standard-dir-perm.html\non-standard-dir-perm]8;;\ usr/ 0775 != 0755
+W: dotchar: ]8;;https://lintian.debian.org/tags/non-standard-dir-perm.html\non-standard-dir-perm]8;;\ usr/bin/ 0775 != 0755
+W: dotchar: ]8;;https://lintian.debian.org/tags/non-standard-dir-perm.html\non-standard-dir-perm]8;;\ usr/share/ 0775 != 0755
+W: dotchar: ]8;;https://lintian.debian.org/tags/non-standard-dir-perm.html\non-standard-dir-perm]8;;\ usr/share/applications/ 0775 != 0755
+W: dotchar: ]8;;https://lintian.debian.org/tags/non-standard-file-perm.html\non-standard-file-perm]8;;\ usr/share/applications/dotchar.desktop 0664 != 0644
+W: dotchar: ]8;;https://lintian.debian.org/tags/script-with-language-extension.html\script-with-language-extension]8;;\ usr/bin/dotchar.pl
