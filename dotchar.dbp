@@ -13,9 +13,9 @@ Description: run dotchar.pl in terminal, display chinese dot array graphic.
 <</CTRL>>
 <<FILES>>
 1
-/home/eexpss/bin/bitmap点阵字模/dotchar.pl* -> dotchar.pl -> /usr/bin
-/home/eexpss/bin/bitmap点阵字模/HZK16 -> HZK16 -> /usr/bin
-/home/eexpss/bin/bitmap点阵字模/HZK12 -> HZK12 -> /usr/bin
+/home/eexpss/project/dotchar/HZK12 -> HZK12 -> /usr/bin
+/home/eexpss/project/dotchar/HZK16 -> HZK16 -> /usr/bin
+/home/eexpss/project/dotchar/dotchar.pl* -> dotchar.pl -> /usr/bin
 <</FILES>>
 <<SCRIPTS>>
 <<PREINST>>
@@ -48,7 +48,7 @@ Type=Application
 Terminal=true
 StartupNotify=false
 Encoding=UTF-8
-Categories=Development;
+Categories=Development;Development;
 <</MENU>>
 <<BUILD>>
 1
